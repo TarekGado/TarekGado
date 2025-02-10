@@ -17,6 +17,6 @@ I'm a **Data Science Master's student** with a strong passion for **data enginee
 - **Other:** Docker, Git, Jupyter  
 
 ##  Connect with Me  
-- **GitHub:** [github.com/yourusername](https://github.com/TarekGado)  
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/tarek-gado)  
+- **GitHub:** [github.com/TarekGado](https://github.com/TarekGado)  
+- **LinkedIn:** [linkedin.com/in/Tarek-Gado](https://linkedin.com/in/tarek-gado)  
 
