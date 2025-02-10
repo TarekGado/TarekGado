@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Tarek Gado! 👋 
 
-<!--
-**TarekGado/TarekGado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me  
+I'm a **Data Science Master's student** with a strong passion for **data engineering, machine learning, and building scalable solutions**. I have experience working with **Python, Docker, SQL, Apache Airflow, PostgreSQL, and Apache Superset** to create data pipelines and insightful visualizations.  
 
-Here are some ideas to get you started:
+##  What I Do  
+- 🔹 Build **data pipelines** for efficient data processing  
+- 🔹 Work with **ETL workflows** using Apache Airflow  
+- 🔹 Analyze and visualize data with **Superset & SQL**
+- 🔹 Develop **Machine Learning models** (Supervised & Unsupervised)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tech Stack  
+- **Programming:** Python, SQL
+- **Data Science & ML:** Supervised & Unsupervised Learning, Pandas, Scikit-learn    
+- **Data Engineering:** Apache Airflow, PostgreSQL, Apache Superset  
+- **Big Data:** Spark, Hadoop 
+- **Other:** Docker, Git, Jupyter  
+
+##  Connect with Me  
+- **GitHub:** [github.com/yourusername](https://github.com/TarekGado)  
+- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/tarek-gado)  
+
